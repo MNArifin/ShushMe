@@ -2,7 +2,11 @@
 Google Places API demo app
 
 ## Download Aplikasi
-[Download](https://drive.google.com/open?id=0B8JOQxPA-TlIYWFESkJyX2w3VkU)
+Exercise 1 = [Download](https://drive.google.com/open?id=0B8JOQxPA-TlIdU50ckFMY25VSFE)<br>
+Exercise 2 = [Download](https://drive.google.com/open?id=0B8JOQxPA-TlIdFdIZ1dmaF96UVk)<br>
+Exercise 3 = [Download](https://drive.google.com/open?id=0B8JOQxPA-TlIQW5nc2xtZDZiZ0U)<br>
+Exercise 4 = [Download](https://drive.google.com/open?id=0B8JOQxPA-TlIdktqRlZZOVEyTmM)<br>
+Exercise 5 = [Download](https://drive.google.com/open?id=0B8JOQxPA-TlITTFQYW5pVS00UDQ)
 
 ## Screenshots
 
